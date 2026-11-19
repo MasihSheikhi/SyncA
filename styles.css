@@ -1,0 +1,12 @@
+.asymmetric-sync-icon {
+  cursor: pointer;
+}
+
+.asymmetric-sync-spin {
+  animation: asymmetric-spin 1.5s linear infinite;
+}
+
+@keyframes asymmetric-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

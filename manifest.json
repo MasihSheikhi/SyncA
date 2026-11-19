@@ -1,0 +1,9 @@
+{
+  "id": "asymmetric-github-sync",
+  "name": "SyncA",
+  "version": "1.0.1",
+  "minAppVersion": "1.4.0",
+  "description": "Syncs local 'Main' folder to a device-specific remote folder (Desktop/Android) and pulls the peer's folder separately.",
+  "author": "Masih Sheikhi",
+  "isDesktopOnly": false
+}
